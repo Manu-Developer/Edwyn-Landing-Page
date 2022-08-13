@@ -2,7 +2,7 @@
 
 Esta página fue creada con el propósito de mejorar mis habilidades con Tailwind CSS.
 
-![Image](https://user-images.githubusercontent.com/61896414/184466996-00dfb8c0-6b7c-4a65-8960-9ad5544116e8.png)
+![Image](https://user-images.githubusercontent.com/61896414/184502993-8e9061bc-3854-4d54-89cc-6361a6dd7570.png)
 
 # Uso
 
